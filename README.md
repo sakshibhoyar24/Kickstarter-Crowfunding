@@ -100,7 +100,7 @@ Ranked based on **amount raised**.
 
 ## 📷 Dashboard Preview
 
-![Kickstarter Dashboard](Excel Dashboard Successful.png).
+Excel Dashboard Successful.png
 
 ![Kickstarter Dashboard](Tableau_Dashboard.png)
 
