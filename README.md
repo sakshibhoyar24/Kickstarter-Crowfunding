@@ -102,6 +102,8 @@ Ranked based on **amount raised**.
 
 ![Kickstarter Dashboard](https://github.com/sakshibhoyar24/Kickstarter-Crowfunding/blob/main/Excel%20Dashboard%20Successful.png)
 
+![Kickstarter Dashboard](https://github.com/sakshibhoyar24/Kickstarter-Crowfunding/blob/main/Power%20Bi%20Dashboad%20Successful.png)
+
 ![Kickstarter Dashboard](Tableau_Dashboard.png)
 
 
