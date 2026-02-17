@@ -110,7 +110,7 @@ Ranked based on **amount raised**.
 
 ![Kickstarter Dashboard](Tableau_Dashboard.png)
 
-00
+
 
 
 ---
