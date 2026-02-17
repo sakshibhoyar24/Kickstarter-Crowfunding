@@ -1,4 +1,4 @@
-# 🚀 Kickstarter Crowdfunding Analysis Dashboard | Tableau
+# 🚀 Kickstarter Crowdfunding Analysis Dashboard | Excel | Power BI | Tableau | SQL 
 
 ## 📌 Project Description
 This project presents an **interactive Tableau dashboard** designed to analyze **Kickstarter crowdfunding projects** across multiple dimensions such as **success rate, funding trends, project outcomes, geographic distribution, and time-based performance**.
@@ -99,6 +99,8 @@ Ranked based on **amount raised**.
 ---
 
 ## 📷 Dashboard Preview
+![Kickstarter Dashboard]
+
 ![Kickstarter Dashboard](Tableau_Dashboard.png)
 
 ---
